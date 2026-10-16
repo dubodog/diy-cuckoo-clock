@@ -31,3 +31,7 @@
 ## 版本与资料
 
 当前固件来自V3同时动作版本；V4指教学返工版本，不是新固件。旧档案留在本地private目录。公开仓库只发布可追溯进度，不包含个人订单照片。测试的详细结果见docs/VERIFICATION.md。
+
+## 公开仓库
+
+已创建并推送：https://github.com/dubodog/diy-cuckoo-clock ，可见性Public，默认分支main。首次发布提交84ae0fe；本地与远端一致性及CI结果在发布时核验。

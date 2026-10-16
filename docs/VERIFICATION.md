@@ -49,3 +49,7 @@ node --test scripts/audit-projection.test.mjs
 ## 5. 公开内容检查
 
 提交前检查所有待跟踪文件，排除private目录、订单截图、个人路径和凭据。原始照片与旧教程保留在本地归档。远端公开状态与自动测试在实际推送后另核验。
+
+## 6. GitHub首发验证
+
+仓库可见性PUBLIC，默认分支main。首次提交84ae0fe的[GitHub Actions主机测试](https://github.com/dubodog/diy-cuckoo-clock/actions/runs/38890745796)已成功。首发远端main与本地HEAD一致。公开跟踪27个文件，提交前隐私路径/凭据模式及Markdown本地链接检查通过；源固件内容逐字节一致。

@@ -1,5 +1,7 @@
 # DIY 双门布谷鸟时钟
 
+[GitHub公开仓库](https://github.com/dubodog/diy-cuckoo-clock) · [自动测试](https://github.com/dubodog/diy-cuckoo-clock/actions)
+
 面向亲子制作的 Arduino UNO 布谷鸟钟：双门同时打开 → 鸟出来 → 按小时播放真实“布谷” → 鸟收回 → 双门同时关闭。
 
 **当前阶段：固件可以编译、主机逻辑测试通过；实物仅安装好下方石英钟。完整安装教学正在返工，尚未完成实物联调。** 本仓库不是已经验证可照做的完整套件教程。
