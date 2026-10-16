@@ -1,0 +1,10 @@
+private/
+.DS_Store
+__pycache__/
+*.pyc
+build/
+.env
+.env.*
+*.elf
+*.hex
+*.o
